@@ -5,10 +5,10 @@
 I'm Software Engineer developing  scalable ASP.NET Core MVC Application and building robust backend API web services. At the moment, I am based in Malaysia. Currently, I contintously strive in applying service oriented architecture and  implementing microservices with .NET C#. 
 
 ## GitHub Stats
-<a href="https://github.com/yasin-magan">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Yasin-Magan&show_icons=true&theme=shades-of-purple&count_private=true" 
+<a href="https://github.com/ridwano11p">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ridwano11p&show_icons=true&theme=shades-of-purple&count_private=true" 
        alt="JYasin-Magan's GitHub Stats" />
-  <img height="180em" width="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasin-Magan&theme=shades-of-purple&layout=compact" 
+  <img height="180em" width="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwano11p&theme=shades-of-purple&layout=compact" 
     alt="Yasin-Magan GitHub Top Languages" />
 
 
